@@ -1,6 +1,3 @@
 <html>
 
-  <h1>hit<h1>
-  git 
-
 <html>
